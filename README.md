@@ -1,3 +1,7 @@
+
+# crop-disease-detecton
+
+
 This project is an AI-powered web application that detects plant diseases from uploaded leaf images using a YOLOv8 deep learning model. It then fetches relevant disease information, treatment methods, and recommended pesticides/fertilizers using Wikipedia and Google Custom Search API.
 
 🚀 Features
@@ -119,4 +123,9 @@ Wikipedia API
 
 Google Custom Search API
 
-# crop-disease-detecton
+## ©️ Author
+
+This project was developed by Yuvraj Mudgil as part of an academic and personal research initiative.
+
+Feel free to explore and build upon it with proper credit.
+
